@@ -4,6 +4,7 @@ Callisto is a concatenative compiled programming language inspired by Forth and 
 It supports these compile targets:
 - x86 real mode
 - x86_64 Linux
+- [Uxn](https://100r.co/site/uxn.html)
 
 with more coming soon
 
@@ -13,5 +14,5 @@ with more coming soon
 include "cores/select.cal"
 include "std/io.cal"
 
-"Hello, world!" printlstr
+"Hello, world!" printstr
 ```
