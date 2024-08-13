@@ -8,6 +8,8 @@ It supports these compile targets:
 
 with more coming soon
 
+IRC: callisto-lang on libera.chat
+
 ## Examples
 ### Hello world
 ```
