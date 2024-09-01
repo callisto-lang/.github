@@ -3,8 +3,10 @@ Callisto is a concatenative compiled programming language inspired by Forth and 
 
 It supports these compile targets:
 - x86 real mode
-- x86_64 Linux
+- x86_64 Linux, macOS
 - [Uxn](https://100r.co/site/uxn.html)
+- ARM64 Linux
+- Lua (subset CallistoScript)
 
 with more coming soon
 
