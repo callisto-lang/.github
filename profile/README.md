@@ -5,7 +5,7 @@ It supports these compile targets:
 - x86 real mode
 - x86_64 Linux, macOS
 - [Uxn](https://100r.co/site/uxn.html)
-- ARM64 Linux
+- ARM64 Linux, macOS
 - Lua (subset CallistoScript)
 
 with more coming soon
