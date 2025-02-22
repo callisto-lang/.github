@@ -1,5 +1,5 @@
 # Callisto
-Callisto is a concatenative compiled programming language inspired by Forth and YSL-C3
+Callisto is a stack-safe concatenative compiled programming language
 
 It supports these compile targets:
 - x86 real mode
@@ -18,5 +18,5 @@ IRC: callisto-lang on libera.chat
 include "cores/select.cal"
 include "std/io.cal"
 
-"Hello, world!" printstr
+"Hello, world!" print_str
 ```
